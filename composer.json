@@ -1,32 +1,32 @@
 {
-    "name": "laravel-enso/departments",
+    "name": "cgdsoftware/departments",
     "description": "Projects for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "departments"
     ],
-    "homepage": "https://github.com/laravel-enso/departments",
+    "homepage": "https://github.com/cgdsoftware/departments",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Reza Fouladi",
             "email": "raftx24@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "laravel-enso/core": "^7.0",
-        "laravel-enso/data-import": "^5.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/tables": "^4.0"
+        "cgdsoftware/core": "^7.0",
+        "cgdsoftware/data-import": "^5.0",
+        "cgdsoftware/forms": "^4.0",
+        "cgdsoftware/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
