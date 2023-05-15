@@ -6,10 +6,10 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/departments/downloads)](https://packagist.org/packages/laravel-enso/departments)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/departments/version)](https://packagist.org/packages/laravel-enso/departments)
 
-Departments is a package for the Laravel Enso environment, designed for the management of departments.
+Departments is a package for the Laravel Liberu environment, designed for the management of departments.
 
-**Note:** *This package cannot be used outside of the Enso environment and is not included by default 
-in the [Laravel Enso Core](https://github.com/laravel-enso/Core) package.*
+**Note:** *This package cannot be used outside of the Liberu environment and is not included by default 
+in the [Laravel Liberu Core](https://github.com/laravel-enso/Core) package.*
 
 ### Installation, Configuration & Usage
 
