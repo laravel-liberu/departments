@@ -41,5 +41,8 @@
                 "LaravelEnso\\Departments\\AppServiceProvider"
             ]
         }
+    },
+    "require-dev": {
+        "rector/rector": "^0.17.0"
     }
 }
