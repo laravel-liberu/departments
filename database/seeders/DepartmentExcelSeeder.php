@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\Departments\Database\Seeders;
+namespace LaravelLiberu\Departments\Database\Seeders;
 
-use LaravelEnso\DataImport\Services\ExcelSeeder;
+use LaravelLiberu\DataImport\Services\ExcelSeeder;
 
 class DepartmentExcelSeeder extends ExcelSeeder
 {

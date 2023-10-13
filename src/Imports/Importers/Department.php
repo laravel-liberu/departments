@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\Departments\Imports\Importers;
+namespace LaravelLiberu\Departments\Imports\Importers;
 
-use LaravelEnso\DataImport\Contracts\Importable;
-use LaravelEnso\DataImport\Models\DataImport;
-use LaravelEnso\Departments\Models\Department as Model;
-use LaravelEnso\Helpers\Services\Obj;
+use LaravelLiberu\DataImport\Contracts\Importable;
+use LaravelLiberu\DataImport\Models\DataImport;
+use LaravelLiberu\Departments\Models\Department as Model;
+use LaravelLiberu\Helpers\Services\Obj;
 
 class Department implements Importable
 {

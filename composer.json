@@ -30,15 +30,15 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Departments\\": "src/",
-            "LaravelEnso\\Departments\\Database\\Factories\\": "database/factories/",
-            "LaravelEnso\\Departments\\Database\\Seeders\\": "database/seeders/"
+            "LaravelLiberu\\Departments\\": "src/",
+            "LaravelLiberu\\Departments\\Database\\Factories\\": "database/factories/",
+            "LaravelLiberu\\Departments\\Database\\Seeders\\": "database/seeders/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Departments\\AppServiceProvider"
+                "LaravelLiberu\\Departments\\AppServiceProvider"
             ]
         }
     },

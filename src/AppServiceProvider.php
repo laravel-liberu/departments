@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Departments;
+namespace LaravelLiberu\Departments;
 
 use Illuminate\Support\ServiceProvider;
 

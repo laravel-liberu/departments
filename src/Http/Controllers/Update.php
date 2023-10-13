@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Departments\Http\Controllers;
+namespace LaravelLiberu\Departments\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Departments\Http\Requests\ValidateDepartmentRequest;
-use LaravelEnso\Departments\Models\Department;
+use LaravelLiberu\Departments\Http\Requests\ValidateDepartmentRequest;
+use LaravelLiberu\Departments\Models\Department;
 
 class Update extends Controller
 {

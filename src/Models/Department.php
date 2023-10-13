@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Departments\Models;
+namespace LaravelLiberu\Departments\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\Tables\Traits\TableCache;
+use LaravelLiberu\Tables\Traits\TableCache;
 
 class Department extends Model
 {

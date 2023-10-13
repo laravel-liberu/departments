@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Departments\Database\Factories;
+namespace LaravelLiberu\Departments\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\Departments\Models\Department;
+use LaravelLiberu\Departments\Models\Department;
 
 class DepartmentFactory extends Factory
 {

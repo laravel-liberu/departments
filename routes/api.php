@@ -1,14 +1,14 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\Departments\Http\Controllers\Create;
-use LaravelEnso\Departments\Http\Controllers\Destroy;
-use LaravelEnso\Departments\Http\Controllers\Edit;
-use LaravelEnso\Departments\Http\Controllers\InitTable;
-use LaravelEnso\Departments\Http\Controllers\Options;
-use LaravelEnso\Departments\Http\Controllers\Store;
-use LaravelEnso\Departments\Http\Controllers\TableData;
-use LaravelEnso\Departments\Http\Controllers\Update;
+use LaravelLiberu\Departments\Http\Controllers\Create;
+use LaravelLiberu\Departments\Http\Controllers\Destroy;
+use LaravelLiberu\Departments\Http\Controllers\Edit;
+use LaravelLiberu\Departments\Http\Controllers\InitTable;
+use LaravelLiberu\Departments\Http\Controllers\Options;
+use LaravelLiberu\Departments\Http\Controllers\Store;
+use LaravelLiberu\Departments\Http\Controllers\TableData;
+use LaravelLiberu\Departments\Http\Controllers\Update;
 
 Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/administration/departments')
